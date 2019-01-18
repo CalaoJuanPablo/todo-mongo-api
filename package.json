@@ -1,0 +1,21 @@
+{
+  "name": "todo-mongo-api",
+  "version": "1.0.0",
+  "description": "This is a simple TODOs API in Node and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "mongo",
+    "express",
+    "node",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
